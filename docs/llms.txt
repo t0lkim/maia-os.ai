@@ -1,0 +1,19 @@
+# maiaOS — Distributed Intelligence
+
+> maiaOS is a brain-inspired, model-agnostic operating system for working with LLMs. A small fast frontal lobe routing to specialist cortices.
+
+## About Knight Intelligence
+
+maiaOS is a brain-inspired, model-agnostic operating system for working with LLMs, built by Knight Intelligence.
+
+
+## Projects
+
+
+## Links
+
+- Website: https://maia-os.ai
+
+## Optional
+
+- Full content: https://maia-os.ai/llms-full.txt

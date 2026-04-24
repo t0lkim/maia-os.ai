@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Internal tooling
+tools/
+
+# Internal config (site content SoT; only docs/ output is served)
+projects.yaml
+
+# Source markdown (HTML output in docs/ is what gets served)
+markdown-files/
+
+# Internal diagrams — not for public distribution
+diagrams/
+specs/
+SPECS/
